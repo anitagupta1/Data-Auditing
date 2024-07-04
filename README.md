@@ -1,2 +1,2 @@
-# Data-Auditing
-Checking whether data uploaded on the cloud is safe or not(corrupted, modified, delete)
+# Data-Auditing (using Challenge Response Protocol)
+Checking whether data uploaded on the cloud is safe or not using Cryptography, Socket Programming
